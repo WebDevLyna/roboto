@@ -28,7 +28,7 @@ img {
   -moz-animation: dance 4s infinite;
   -ms-animation: dance 4s infinite;
   position: absolute;
-  top: 200px;
+  top: 400px;
   left: 400px;
 }
 
@@ -63,12 +63,11 @@ img {
   }
 }
 .laser {
-  animation: blink .5s infinite;
-  -webkit-animation: blink .5s infinite;
-  -moz-animation: blink .5s infinite;
+  animation: blink .7s infinite;
+  -webkit-animation: blink .7s infinite;
+  -moz-animation: blink .7s infinite;
 }
 .brain {
-  animate: blink .5s infinite;
   background: radial-gradient(circle, white 15%, transparent 40%), #cc5;
   background: -moz-radial-gradient(circle, white 15%, transparent 40%), #cc5;
   background: -webkit-radial-gradient(circle, white 15%, transparent 40%), #cc5;
